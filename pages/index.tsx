@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
+      <main className="text-red-500">
         <p>Placeholder for main</p>
       </main>
 
